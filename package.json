@@ -1,7 +1,7 @@
 {
   "name": "@tekktekk/react-flip-move",
   "version": "0.0.1",
-  "description": "Responsive Media Queries for React",
+  "description": "Simple animations in React using the FLIP technique",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "homepage": "https://github.com/lioneltay/react-flip-move.git",
